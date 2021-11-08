@@ -1,7 +1,7 @@
 # DesafioProteus-Locobots
 
 <h2>O que é o Projeto</h2> 
-<p>Desenvolvido por Gessia e Graziele, o projeto é um <b>alarme de incêndios</b> controlado por arduino.</p>
+<p>Desenvolvido por Gessica e Graziele, o projeto é um <b>alarme de incêndios</b> controlado por arduino.</p>
 
 <h4>Componentes utilizados:</h4> 
 <ul>
@@ -9,11 +9,13 @@
  <li>Buzzer - emissão de som</li>
  <li>LED-RED - apresenta tensão de 2.8V e corrente de 10mA</li>
  <li>Resistor 220 ohms - usado para limitar corrente e o cálculo para chegar no valor foi  (5-2.8/10mA) </li>
+ <li>Conector (T-block) - usado para alimentação </li>
 </ul>
 
-<h4>Ligações:</h4> 
+<h4>Circuito e placa:</h4> 
 <p align="center">
   <img src="img/CircuitoProteus.png" width="350" alt="ligações do ciruito">
+  <img src="img/pcb.png" width="350" alt="ligações do ciruito">
 </p>
 
 <h2>Desafios enfrentados:</h2> 
@@ -24,6 +26,7 @@
   	<img src="img/CircuitoTinkercad.png" width="350" alt="Circuito pensando">
 	</p>
  </li>
+ <li> Fazer as ligações das trilhas de forma eficiente </li>
  
 </ul>
 
