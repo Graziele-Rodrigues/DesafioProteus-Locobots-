@@ -15,6 +15,7 @@
 <h4>Circuito e placa:</h4> 
 <p align="center">
   <img src="img/CircuitoProteus.png" width="350" alt="ligações do ciruito">
+  <img src="img/placa.png" width="350" alt="ligações do ciruito">
   <img src="img/pcb.png" width="350" alt="ligações do ciruito">
 </p>
 
@@ -26,8 +27,10 @@
   	<img src="img/CircuitoTinkercad.png" width="350" alt="Circuito pensando">
 	</p>
  </li>
- <li> Fazer as ligações das trilhas de forma eficiente </li>
- 
+ <li> Fazer as ligações das trilhas de forma eficiente. No inicio, da forma como colocamos os componentes, estavamos com problema de trilha passando por cima da outra. </li>
+ 	<p align="center">
+  	<img src="img/problemaTrilha.png" width="350" alt="Circuito pensando">
+	</p>
 </ul>
 
 <h6>Autoras: </h6> 
